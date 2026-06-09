@@ -1,4 +1,3 @@
-```markdown
 # Padrão de Projeto Comportamental: State
 
 Projeto de estudo para apresentar uma implementação do padrão de projeto **State** utilizando Java.  
